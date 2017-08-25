@@ -34,7 +34,8 @@ Quintessential PHP framework based on PSR and RFC standards.
  * Skeleton
  * Tests
  * Deploy scripts
- * Middleware
+ * PSR-15 Middleware
+ * PSR-13 Links
  * Documentation
  * Dependency injector: optimizations, static dependencies, ->has() method.
  
